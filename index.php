@@ -1,4 +1,12 @@
-<?php
-    $animal = "猫";
-    echo "I like {$animal}";
-?>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+    <body>
+        <?php
+        echo "Hello World2!";
+        ?>
+    </body>
+</html>
